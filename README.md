@@ -1,0 +1,1 @@
+Mastermind game coded in ruby as per odin project: https://www.theodinproject.com/lessons/ruby-mastermind
